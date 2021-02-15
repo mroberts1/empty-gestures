@@ -344,3 +344,44 @@
     margin-top: 2rem;
   }
 }
+/**
+ * Generic Page
+ */
+.gen-page {
+  display: inline-block;
+
+  .gen-header {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+    .gen-avatar {
+      padding: 1px;
+      border: 1px solid $grey-color-light;
+      width: 10rem;
+      height: 10rem;
+      margin: 0 2rem 0 0;
+    }
+
+    .gen-info {
+      align-self: center;
+
+      .gen-your-name {
+        display: flex;
+        flex-direction: row;
+        margin-top: 1rem;
+        @include relative-font-size(1.5);
+      }
+
+      .gen-description {
+        margin-top: -0.6rem;
+        @include relative-font-size(1);
+        color: lighten($text-color, 25%);
+      }
+    }
+  }
+
+  .gen-content {
+    margin-top: 2rem;
+  }
+}
