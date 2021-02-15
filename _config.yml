@@ -1,7 +1,7 @@
 title: Pessimistic Operator # The title of the blog
 author: Martin Roberts # Your name 
 email: dokoissho@sdf.org # your email shown in the footer
-baseurl: "/" # this is your site's root address.
+baseurl: "/pessimistic-operator" # this is your site's root address.
 url: ""
 description: # this means to ignore newlines until "show_excerpts:"
   Web publishing for the rest of us
