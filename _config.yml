@@ -1,10 +1,10 @@
 title: Pessimistic Operator # The title of the blog
 author: Martin Roberts # Your name 
 email: dokoissho@sdf.org # your email shown in the footer
-baseurl: "/pessimistic-operator" # this is your site's root address.
+baseurl: "/" # this is your site's root address.
 url: ""
 description: # this means to ignore newlines until "show_excerpts:"
-  Web publishing for the rest of us
+  Our bots will see you now
 show_excerpts: false # set to true to show excerpts on the homepage
 livereload: true
   
@@ -13,7 +13,7 @@ livereload: true
 moving:
   # avatar_url: "https://avatars.githubusercontent.com/u/8925762?s=400&v=4" # avatar in about page
   about_you: a short description about you. # short description about you in about page
-  date_format: "%b %d" # date format of posts in home page
+  date_format: "%-d %B %Y" # date format of posts in home page
   back_to: "Home" # In the post page, you have a back button above the title, you can custom the text by yourself.
 
   # generate social links in about page.

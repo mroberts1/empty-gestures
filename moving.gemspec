@@ -3,8 +3,8 @@
 Gem::Specification.new do |spec|
   spec.name          = "moving"
   spec.version       = "0.3.3"
-  spec.authors       = ["huangyz0918"]
-  spec.email         = ["huangyz0918@gmail.com"]
+  spec.authors       = ["mroberts"]
+  spec.email         = ["dokoissho@sdf.org"]
 
   spec.summary       = "A clean and minimalist theme for Jekyll"
   spec.homepage      = "https://github.com/huangyz0918/moving"
