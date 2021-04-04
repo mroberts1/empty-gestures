@@ -1,10 +1,10 @@
-title: Pessimistic Operator # The title of the blog
+title: Utterly Pointless # The title of the blog
 author: Martin Roberts # Your name 
 email: dokoissho@sdf.org # your email shown in the footer
 baseurl: "/" # this is your site's root address.
 url: ""
 description: # this means to ignore newlines until "show_excerpts:"
-  Our bots will see you now
+  Nobody will read it anyway
 show_excerpts: false # set to true to show excerpts on the homepage
 livereload: true
   

@@ -1,10 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Enriqueta&display=swap');
 @charset "utf-8";
 
 // Define defaults for each variable.
 
-$base-font-family: "Bitter", 'Hiragino Sans GB', 'Microsoft Yahei', '微软雅黑', "Bitter", sans-serif;
-$base-font-size: 18px !default;
-$base-font-weight: 400 !default;
+$base-font-family: 'Enriqueta', 'Palatino';
+$base-font-size: 20px !default;
+$base-font-weight: 500 !default;
 $small-font-size: $base-font-size * 0.85 !default;
 $base-line-height: 1.8 !default;
 $small-line-height: 1.6 !default;
