@@ -1,10 +1,10 @@
-title: Utterly Pointless # The title of the blog
+title: Terminal Beach # The title of the blog
 author: Martin Roberts # Your name 
 email: dokoissho@sdf.org # your email shown in the footer
 baseurl: "/" # this is your site's root address.
 url: ""
 description: # this means to ignore newlines until "show_excerpts:"
-  Nobody will read it anyway
+  Technologies of the screen
 show_excerpts: false # set to true to show excerpts on the homepage
 livereload: true
   
