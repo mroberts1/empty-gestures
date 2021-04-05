@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Algorithms Are Stupid"
+title: Algorithms Are Stupid
 categories: algorithms
 ---
 
