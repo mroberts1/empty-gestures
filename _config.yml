@@ -12,7 +12,7 @@ livereload: true
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 moving:
   # avatar_url: "https://avatars.githubusercontent.com/u/8925762?s=400&v=4" # avatar in about page
-  about_you: a short description about you. # short description about you in about page
+  about_you: # short description about you in about page
   date_format: "%-d %B %Y" # date format of posts in home page
   back_to: "Home" # In the post page, you have a back button above the title, you can custom the text by yourself.
 
@@ -30,7 +30,7 @@ moving:
     # youtube: 
     # youtube_channel: 
     # youtube_channel_name: 
-    telegram: dokoissho
+    # telegram: dokoissho
     # googleplus: 
     # microdotblog: 
     # reddit: 

@@ -2,13 +2,12 @@
 layout: about
 menus: 
   header:
-    title: About
+    title: "About"
     weight: 1
 ---
 
-These are controlled by `about.md` under the root directory. If you want a more diverse self-introduction, you can insert the markdown content you want here.
+## Terminal Beach
 
-### What's New
+Part diary, part logbook, part soapbox, this blog serves as a record of my everyday experience of screen-based networked communication technologies. 
 
-- One paper got accepted in xxx 2019.
-- I'm going to join xxx as a xxx 2019 Fall.
+The title is inspired by J.G. Ballard's classic short story collection [*The Terminal Beach*](http://www.fantasyliterature.com/reviews/the-terminal-beach/) (1964), although "terminal" here refers more to the computer terminal as the dominant screen interface of the digital age.
