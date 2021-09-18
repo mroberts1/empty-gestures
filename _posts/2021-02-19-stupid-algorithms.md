@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Algorithms Are Stupid
-categories: algorithms
+categories: algorithm
 ---
 
 What I find most striking about algorithms is not how incredibly smart they are, but how incredibly stupid they are. 
