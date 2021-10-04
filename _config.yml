@@ -1,10 +1,10 @@
-title: Terminal Beach # The title of the blog
+title: Empty Gestures # The title of the blog
 author: Martin Roberts # Your name 
 email: dokoissho@sdf.org # your email shown in the footer
 baseurl: "/terminal-beach" # this is your site's root address.
 url: ""
 description: # this means to ignore newlines until "show_excerpts:"
-  Technologies of the screen
+  After the end of the avant-garde
 show_excerpts: false # set to true to show excerpts on the homepage
 livereload: true
   
@@ -18,7 +18,7 @@ moving:
 
   # generate social links in about page.
   social_links:
-    twitter: mroberts333 
+    twitter: dokoissho 
     github:  mroberts1
     # rss: RSS
     # dribbble: 
